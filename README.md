@@ -1,55 +1,154 @@
-<!-- Custom Font via Markdown-emulated styles (best viewed on GitHub) -->
 
-<h1 align="center" style="font-family:'Fira Code', monospace;">
-  👋 Hey there, I'm <span style="color:#00BFFF;">Anand Babu</span>
-</h1>
+<!-- HEADER -->
 
-<h3 align="center" style="font-weight: normal;">
-  🚀 Fullstack Developer | Crafting elegant experiences with <code>ReactJS</code>
+<h1 align="center">Hi 👋, I'm Anand Babu</h1>
+
+<h3 align="center">
+Computer Science Engineering Graduate • Full Stack Developer • ReactJS Enthusiast
 </h3>
 
+<p align="center">
+Passionate about building practical software solutions with modern web technologies and problem solving.
+</p>
+
 <br/>
 
-<!-- Animated Portfolio Button -->
+<!-- BUTTONS -->
+
 <p align="center">
   <a href="https://portfolio-git-main-anand-babus-projects-52f07f70.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&width=250&height=40&lines=✨+Visit+My+Portfolio+Now!;🚀+Explore+My+Work!" alt="Portfolio CTA"/>
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge"/>
   </a>
-</p>
 
-<br/>
-
----
-
-<!-- Tech Stack Section -->
-<h2 align="center">🛠️ My Tech Toolbox</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,mysql,mongodb,git,vscode" />
-</p>
-
-<p align="center">
-  <sub style="color:gray"><i>Building fullstack apps with strong backend logic and sleek frontend UIs.</i></sub>
-</p>
-
-<br/>
-
----
-
-<!-- LinkedIn Button with Icon -->
-<h2 align="center">🤝 Connect With Me</h2>
-
-<p align="center">
   <a href="https://linkedin.com/in/anand-babu-ajce" target="_blank">
-    <img src="https://img.shields.io/badge/Anand%20Babu-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Anand%20Babu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:anandbabukonnackaparampil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<br/>
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Anand Babu
+Degree: B.Tech Computer Science Engineering
+CGPA: 9.07
+Focus Areas:
+  - Full Stack Development
+  - ReactJS Applications
+  - Software Engineering
+  - AI/ML Projects
+
+Currently Exploring:
+  - Spring Boot
+  - Deep Learning
+  - Backend Development
+````
 
 ---
 
-<!-- Footer Tagline -->
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=spring,mysql" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+## 🚦 Traffic Sign Recognition & Driver Alert System
+
+> Real-time traffic sign detection and driver alert system designed for Indian road conditions.
+
+**Tech Used:**
+`YOLOv11` `ResNet` `Python` `OpenCV`
+
+✔️ Real-time detection
+✔️ Driver alert integration
+✔️ IEEE RECCAP 2026 paper accepted
+
+---
+
+## 🏥 VENOMSHIELD – Kerala
+
+> Web platform to locate hospitals with anti-venom availability.
+
+**Tech Used:**
+`ReactJS` `Spring Boot`
+
+✔️ Location-based filtering
+✔️ Frontend & backend integration
+✔️ Healthcare-focused solution
+
+---
+
+## 👷 SkillBridge – Employment Platform
+
+> Platform connecting daily wage workers with employers.
+
+**Tech Used:**
+`ReactJS` `Flask` `MongoDB`
+
+✔️ Worker listings
+✔️ Job posting system
+✔️ User-friendly interface
+
+---
+
+# 🏆 Achievements
+
+* 🎓 B.Tech CSE CGPA: **9.07**
+* 📄 Research paper accepted at **IEEE RECCAP 2026**
+* 🏅 Manager’s Honours Award for academic excellence
+* 🤝 NSS Road Safety Coordinator
+
+---
+
+# 🌱 Currently Learning
+
+* Backend architecture with Spring Boot
+* Scalable full stack applications
+* AI/ML model deployment
+* Clean UI/UX practices
+
+---
+
+# 🤝 Connect With Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Passionate+about+building+products+that+matter.;Always+learning+something+new..."/>
+  <a href="https://linkedin.com/in/anand-babu-ajce">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:anandbabukonnackaparampil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"/>
+  </a>
 </p>
+
+---
+
+<p align="center">
+  <i>“Always learning, building, and improving through practical experience.”</i>
+</p>
+```
